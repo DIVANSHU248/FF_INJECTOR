@@ -16,7 +16,7 @@ git clone https://github.com/DIVANSHU248/FF_INJECTOR.git
 
 ls
 
-cd ff_injector
+cd FF_INJECTOR
 
 python injector.py
 
